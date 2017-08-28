@@ -1,1 +1,3 @@
 first commit on master branch
+
+second message in file poezie
