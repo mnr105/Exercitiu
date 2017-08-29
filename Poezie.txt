@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-=======
 first commit on master branch
-<<<<<<< HEAD
 
 second message in file poezie
 
 ana are mere
 
 ionel are mure
->>>>>>> parent of 21cf728... merge
-=======
->>>>>>> parent of 5c50ab3... after ofer
