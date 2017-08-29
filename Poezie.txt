@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 first commit on master branch
 
 second message in file poezie
@@ -11,3 +12,5 @@ request response lifecicle
 ana are mere 
 si mihai banane
 
+=======
+>>>>>>> parent of db09097... reset
