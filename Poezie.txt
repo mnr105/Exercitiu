@@ -5,6 +5,5 @@ request response lifecicle
 
 
 
-si mihai banane
-
-O noua propozitie scrisa de Alex
+si mihai banane 
+si mai are si prune
